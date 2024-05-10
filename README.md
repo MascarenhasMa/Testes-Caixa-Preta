@@ -23,7 +23,7 @@ O teste cobriu tanto questos de logins com constar já logadas como com contas n
 
 Registro de teste
 
-Insira o link do vídeo gravado para atividade;
+Link Youtube: https://youtu.be/oc45IS7an8U
 
 Autores
 
